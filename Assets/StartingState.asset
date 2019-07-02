@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2693eecb361ae5f4fac2ec60a822de3e, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Z ciemnej odch\u0142ani, wyrywa ci\u0119 nik\u0142e \u015Bwiat\u0142o
+    i odg\u0142os spadaj\u0105cych kropli... kap... kap... kap.\r\nBudzisz si\u0119
+    w ma\u0142ej izbie o \u015Bcianach, ze skruszonych ju\u017C przez czas, ceg\u0142\xF3wek.\r\nRozgl\u0105daj\u0105c
+    si\u0119 zauwa\u017Casz jedynie niewielk\u0105 lampk\u0119, stoj\u0105c\u0105
+    na zgni\u0142ej, drewnianej szawce, z u\u0142aman\u0105 przedni\u0105 n\xF3\u017Ck\u0105,\r\nma\u0142e
+    lusterko wisz\u0105ce na \u015Bcianie i ogromne, metalowe drzwi. Nie pasuj\u0105
+    one jednak do typowego stereotypu drzwi, nie posiadaj\u0105\r\nklamek, zawias\xF3w
+    ani \u017Cadnej charakterystycznej rzeczy. Tak jakby kto\u015B opra\u0142 kawa\u0142
+    \u017Celiwnej blachy o \u015Bcian\u0119. Jedyne co wida\u0107 to\r\nniewielki
+    prze\u015Bwit mi\u0119dzy pod\u0142\u0105g\u0105, z kt\xF3rej zagl\u0105da niewielki
+    promyk \u015Bwiat\u0142a.\r\n\r\nPodchodzisz do lustra i widzisz:\r\n1. Kobiet\u0119\r\n2.
+    M\u0119\u017Cczyzn\u0119"
+  nextStates:
+  - {fileID: 11400000, guid: 0b4ac527d59093448b541349ecd4dc15, type: 2}
+  - {fileID: 11400000, guid: a16e16a430e5bf246b5dad46955966eb, type: 2}
